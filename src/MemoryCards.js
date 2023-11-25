@@ -3,7 +3,7 @@ import shuffle from 'shuffle-array';
 class MemoryCards {
     constructor() {
         this.cards = [];
-        this.NUM_IMAGES = 1;
+        this.NUM_IMAGES = 16;
     }
 
     generateCardSet() {
