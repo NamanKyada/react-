@@ -1,0 +1,85 @@
+.Game {
+  text-align: center;
+}
+
+.Game-header {
+  height: 50px;
+  padding: 20px;
+  color: black;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.Game-title {
+  font-size: 1.5em;
+}
+
+.Game-status {
+  color: black;
+  text-decoration: underline;
+  font-weight: bold;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  max-width: 1000px; 
+  margin: 0 auto;
+}
+
+.Game-intro {
+  font-size: large;
+}
+
+.Card {
+  display: inline-block;
+  border-color:black;
+  border-width: 5px;
+  border-style: solid;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 100px;
+}
+
+
+.CardContainer {
+  width: 1000px;
+  height: 500px;
+  display: inline-block;
+  border-color:black;
+  border-width: 5px;
+  border-style: solid;
+
+}
+
+.fin{
+  color: black;
+  font-size: 20px;
+  text-decoration: underline;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.score{
+  color: orange;
+  font-size: 20px;
+  text-decoration: underline;
+  font-weight: bold;
+  padding: 20px;
+
+}
+
+.time{
+  color: orange;
+  font-size: 20px;
+  text-decoration: underline;
+  font-weight: bold;
+  padding: 20px;
+
+}
+
+P{
+  font-size: 15px;
+  align-items: right ;
+  text-align: right;
+}
